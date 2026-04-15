@@ -1,4 +1,4 @@
-print("Hello world!")
-print("Hello darkness my old friend")
-print("Hello from feature")
+print ("Hello world!")
+print ("Hello from feature")
+print("")
 print("Hello from release")
